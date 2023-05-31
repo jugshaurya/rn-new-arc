@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="144px" viewBox="0 0 134 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Search Sales (1) 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Search-Sales-(1)-2" transform="translate(2.000000, 2.000000)" fill="#010101" fill-rule="nonzero">
+            <g id="Search-Sales-(1)">
+                <path d="M2,73 L2,138 L17,138 L17,73 L2,73 Z M0,69 L19,69 C20.1045695,69 21,69.8954305 21,71 L21,140 C21,141.104569 20.1045695,142 19,142 L0,142 C-1.1045695,142 -2,141.104569 -2,140 L-2,71 C-2,69.8954305 -1.1045695,69 0,69 Z" id="Rectangle"></path>
+                <path d="M39,25 L39,138 L54,138 L54,25 L39,25 Z M37,21 L56,21 C57.1045695,21 58,21.8954305 58,23 L58,140 C58,141.104569 57.1045695,142 56,142 L37,142 C35.8954305,142 35,141.104569 35,140 L35,23 C35,21.8954305 35.8954305,21 37,21 Z" id="Rectangle"></path>
+                <path d="M76,44 L76,138 L91,138 L91,44 L76,44 Z M74,40 L93,40 C94.1045695,40 95,40.8954305 95,42 L95,140 C95,141.104569 94.1045695,142 93,142 L74,142 C72.8954305,142 72,141.104569 72,140 L72,42 C72,40.8954305 72.8954305,40 74,40 Z" id="Rectangle"></path>
+                <path d="M113,2 L113,138 L128,138 L128,2 L113,2 Z M111,-2 L130,-2 C131.104569,-2 132,-1.1045695 132,0 L132,140 C132,141.104569 131.104569,142 130,142 L111,142 C109.895431,142 109,141.104569 109,140 L109,0 C109,-1.1045695 109.895431,-2 111,-2 Z" id="Rectangle"></path>
+            </g>
+        </g>
+    </g>
+</svg>

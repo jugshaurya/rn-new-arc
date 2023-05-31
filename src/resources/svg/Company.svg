@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="45px" viewBox="0 0 44 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="21.3333333" cy="21.5" rx="21.3333333" ry="21.5"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.-WHTCV-WEB-expanded_State+recruiter-card-states" transform="translate(-1244.000000, -1366.000000)">
+            <g id="Group-6" transform="translate(1245.000000, 1367.000000)">
+                <g id="fetchImage-Copy-17">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" stroke="#CCCCCC" stroke-width="0.5" xlink:href="#path-1"></use>
+                </g>
+                <g id="Refine-Industry-Copy-6" transform="translate(12.000000, 12.000000)" fill="#DDDDDD">
+                    <path d="M18.525,19 L0.475,19 C0.19,19 0,18.81 0,18.525 L0,4.275 C0,3.99 0.19,3.8 0.475,3.8 L4.75,3.8 L4.75,4.75 L0.95,4.75 L0.95,18.05 L18.05,18.05 L18.05,4.75 L14.25,4.75 L14.25,3.8 L18.525,3.8 C18.81,3.8 19,3.99 19,4.275 L19,18.525 C19,18.81 18.81,19 18.525,19 Z" id="Path"></path>
+                    <path d="M14.25,19 L4.75,19 C4.465,19 4.275,18.81 4.275,18.525 L4.275,0.475 C4.275,0.19 4.465,0 4.75,0 L14.25,0 C14.535,0 14.725,0.19 14.725,0.475 L14.725,18.525 C14.725,18.81 14.535,19 14.25,19 Z M5.225,18.05 L13.775,18.05 L13.775,0.95 L5.225,0.95 L5.225,18.05 Z" id="Shape" fill-rule="nonzero"></path>
+                    <path d="M10.925,19 L8.075,19 C7.79,19 7.6,18.81 7.6,18.525 L7.6,13.3 C7.6,13.015 7.79,12.825 8.075,12.825 L10.925,12.825 C11.21,12.825 11.4,13.015 11.4,13.3 L11.4,18.525 C11.4,18.81 11.21,19 10.925,19 Z M8.55,18.05 L10.45,18.05 L10.45,13.775 L8.55,13.775 L8.55,18.05 Z" id="Shape" fill-rule="nonzero"></path>
+                    <path d="M10.925,4.75 L8.075,4.75 C7.79,4.75 7.6,4.56 7.6,4.275 C7.6,3.99 7.79,3.8 8.075,3.8 L10.925,3.8 C11.21,3.8 11.4,3.99 11.4,4.275 C11.4,4.56 11.21,4.75 10.925,4.75 Z" id="Path"></path>
+                    <path d="M10.925,8.075 L8.075,8.075 C7.79,8.075 7.6,7.885 7.6,7.6 C7.6,7.315 7.79,7.125 8.075,7.125 L10.925,7.125 C11.21,7.125 11.4,7.315 11.4,7.6 C11.4,7.885 11.21,8.075 10.925,8.075 Z" id="Path"></path>
+                    <path d="M10.925,10.925 L8.075,10.925 C7.79,10.925 7.6,10.735 7.6,10.45 C7.6,10.165 7.79,9.975 8.075,9.975 L10.925,9.975 C11.21,9.975 11.4,10.165 11.4,10.45 C11.4,10.735 11.21,10.925 10.925,10.925 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
